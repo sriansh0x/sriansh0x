@@ -25,3 +25,13 @@ Role     : BTech CSE Student
 Focus    : Programming & Computer Science
 Learning : C • C++ • Python
 Mindset  : Learn → Build → Break → Fix → Repeat
+---
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sriansh0x/sriansh0x/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
